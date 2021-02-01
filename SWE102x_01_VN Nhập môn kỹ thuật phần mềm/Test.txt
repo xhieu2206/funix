@@ -1,0 +1,11 @@
+- Câu 1: Các bước lập trình (DONE)
+- Câu 2: Các bước lấy yêu cầu (DONE)
+- Câu 3: Quản lý cấu hình
+- Câu 4: Phân biết mô hình thác nước/ Waterfall: Khi nào áp dụng các mô hình này (DONE)
+- Câu 5: Mô hình UML là gì? các loại mô hình UML (DONE)
+- Câu 6: Các design pattern và trường hợp nào áp dụng design pattern nào (DONE, còn ý design pattern ứng với trường hợp nào thì chưa trả lời được)
+- Câu 7: Mô tả các mô hình UML trong bài: Mô hình lớp, mô hình sequence (DONE)
+- Câu 8: Các ký hiệu trong mô hình UML (DONE)
+- Câu 9: Cấu trúc tài liệu SRS 
+- Câu 10: Mô hình Agile/ Scrum? Các vai trò trong Scrum (DONE)
+- Câu 11: Phân biệt Use case, trong mô tả use case cần mô tả các điều kiện gì: pre condition, post condition, 

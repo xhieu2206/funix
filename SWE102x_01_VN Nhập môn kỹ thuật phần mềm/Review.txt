@@ -1,0 +1,44 @@
+- Phần 1: 
+1.Overview
+1.1 Phần mềm là gì? 
+1.2 Phần mềm tốt có những đặc tính?: 
+	tính khả dụng, 
+	độ hữu hiệu, 
+	nhu cầu thay đổi, khả năng bảo trì, tính linh động,hiệu quả chi phí, tính ổn định, và khả năng mở rộng
+1.3 Kỹ nghệ phần mềm là gì
+1.4 Khó khăn thử thách của phần mềm trong TK 21
+	 - Chi phí tốn kém, công việc phức tạp, đầu tư lãng phí khi giải pháp không phù hợp, nhiều thời gian phát triển 
+	- Yêu cầu khách hàng thay đổi
+	- Rủi ro fail dự án: thất bại, lỗi
+1.5 Quy trình
+ - Phân biệt quy tình phần mềm (software process: bước để tạo ra phần mềm) và mô hình quy trình (software process model): 
+	  Quy trình phần mềm: 5 bước: 
+	  + Phân tích yêu cầu
+	  + Thiết kế
+	  + Thực thi
+	  + Kiểm thử
+	  + Phát hành
+	  
+	  Mô hình quy trình phần mềm: Áp dụng quy trình phần mềm vào các điều kiện dự án cụ thể
+	  + Thác nước: Yêu cầu rõ ràng từ đầu=> 
+	  + Agile Scrum: Yêu cầu chưa rõ ràng, còn thay đổi=> KH nhìn thấy sp sớm (Tìm hiểu 4 tuyên ngôn của agile:)
+- So sánh mô hình kế hoạch và Agile
+- Đi sâu vào Agile: 
+	+ User stories
+	+ Kỹ thuật xác định US
+	+ Scrum
+	+ Velocity, points
+	+ Các cuộc họp: Sprint planning, daily meeting, retrospective, 
+	+ Sprint backlog
+	+ Product backlog
+1.7 Giới thiệu kỹ thuật phần mềm
+- PHần 2: Đi sâu vào yêu cầu, thiết kế chi tiết, viết code
+2.1 Quy trình yêu cầu là gì
+2.2 Cấu trúc tài liệu SRS
+2.3 Phân biệt use case và scenarios
+2.4 Phân biệt yêu cầu chức năng và phi chức năng
+
+- Phần 3: Thiết kế phần mềm
+3.1 Các biểu đồ UML
+3.2 Các mẫu thiết kế: design pattern: Builder, factory, singleton, 
+- PHần 4: 

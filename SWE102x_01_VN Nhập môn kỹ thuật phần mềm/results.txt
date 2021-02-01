@@ -1,0 +1,79 @@
+1 - B
+2 - C/sai - A
+3 - D
+4 - D/sai - C
+5 - D
+
+
+1 - A
+2 - D
+3 - C
+4 - D
+5 - A
+6 - D
+7 - D
+
+2.5
+1 - D
+2 - C
+3 - A
+4 - C
+5 - D (sai) - A
+
+2.6
+1 - D/sai - C/sai - B/sai - A
+2 - A/sai - B
+3 - B
+4 - C/sai - B
+5 - D
+6 - C/sai - D
+
+3.7
+1 - D
+2 - A
+3 - D
+4 - D
+5 - B/sai - A/sai - C/sai - D/sai - E
+6 - A
+
+3.8
+1 - B
+2 - A
+3 - C/sai - B
+4 - C
+5 - D
+6 - B/sai - A
+
+3.9
+1 - B / sai - A
+2 - A
+3 - D / sai - C
+4 - D
+5 - B
+6 - D
+7 - B
+8 - B / sai - A
+
+3.10
+1 - D
+2 - B/sai - C/sai - A/sai - D
+3 - A 
+4 - C/sai - D
+5 - A
+6 - D
+
+3.11
+1 - A
+2 - C/sai - C
+3 - A/sai - B/sai - D
+4 - C/sai - D
+5 - C/sai - D/sai - A
+6 - B/sai - D/sai - A
+
+3.12
+1 - D/sai - B
+2 - D/sai - A/sai - B/sai - E
+3 - C
+4 - B/sai - B
+5 - A
+6 - C

@@ -1,0 +1,94 @@
+Quiz 2:
+3 D
+4 A C D
+5 A
+
+Quiz 3:
+1 D
+2 A
+3 C
+4 B
+5 A + B
+
+Quiz 4:
+1 C
+2 A + C
+3 A
+4 D
+5 D
+
+Quiz 5:
+1 C
+2 B
+3 D
+4 A
+5 B
+
+Quiz 6:
+1 B
+2 D 
+3 B
+4 D
+5 D
+
+Quiz 7
+1 B = SAI / A
+2 B
+3 C + D
+4 C
+5 B
+
+Quiz 8
+1 A + B + C
+2 A = SAI / B
+3 C = SAI / D
+4 C
+5 A
+
+Quiz 9:
+1 B
+2 A + B + C
+3 A
+4 A + B + D
+5 A
+
+Quiz 10:
+1 A + C
+2 A
+3 B
+4 A + B + D
+5 A
+
+Quiz 11:
+1 A
+2 D
+3 D
+4 B
+
+Quiz 12:
+1 B
+2 B
+3 A
+4 A
+5 D
+
+Quiz 13:
+1 C
+2 B
+3 A
+4 D
+5 C
+
+Quiz 14:
+1 D
+2 B
+3 A
+4 B
+5 A + C
+
+Quiz 15:
+1 C
+2 A
+3 B
+4 C
+5 D
