@@ -1,0 +1,28 @@
+1
+00:00:07,707 --> 00:00:11,554
+Khoá học này không có sách giáo khoa bắt buộc, tuy nhiên, vài cuốn sách
+
+2
+00:00:11,554 --> 00:00:15,410
+có chứa tài liệu được liệt kê trong trang dẫn nguồn của khoá học.
+
+3
+00:00:15,410 --> 00:00:18,350
+Thay vào đó, có 1 bộ bài tập lớn được liệt kê 
+
+4
+00:00:18,350 --> 00:00:20,150
+trong trang tiến trình (schedule page) của khoá học.
+
+5
+00:00:20,150 --> 00:00:25,160
+Và bản thân những tư liệu cũng có trong các đường dẫn tại trang dẫn nguồn của khoá học.
+
+6
+00:00:25,160 --> 00:00:28,550
+Chúng tôi mong muốn bạn đọc những tư liệu này trước khi xem
+
+7
+00:00:28,550 --> 00:00:29,540
+các bài học tương ứng.
+

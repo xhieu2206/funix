@@ -1,0 +1,49 @@
+1
+00:00:00,257 --> 00:00:07,640
+[Không có tiếng]
+
+2
+00:00:07,640 --> 00:00:12,056
+Khoá học này, thiết kế và kiến trúc phần mềm, được chia thành 2 phần
+
+3
+00:00:12,056 --> 00:00:16,450
+những bài tập và nội dung bài học sẽ đan xen với nhau.
+
+4
+00:00:16,450 --> 00:00:19,070
+Sau vài bài mở đầu, chúng ta sẽ bắt đầu bằng cách xem xét
+
+5
+00:00:19,070 --> 00:00:23,640
+quá trình phân tích một bài toán thiết kế và cụ thể hoá nó bằng UML và
+
+6
+00:00:23,640 --> 00:00:28,830
+OCL. Cả phương diện tĩnh và động của việc thiết kế sẽ được đưa ra.
+
+7
+00:00:28,830 --> 00:00:32,140
+Phần tiếp theo của khoá học liên quan tới kiến trúc phần mềm.
+
+8
+00:00:32,140 --> 00:00:36,951
+Phần này bao gồm những cách nghĩ và thể hiện kiến trúc khác nhau,
+
+9
+00:00:36,951 --> 00:00:41,210
+vai trò của yêu cầu phi chức năng (non functional requirements) trong việc quyết định kiến trúc, và
+
+10
+00:00:41,210 --> 00:00:46,370
+làm sao để phân chia thiết kế kiến trúc thành những mô-đun để sau đó tiến hành code được.
+
+11
+00:00:46,370 --> 00:00:50,310
+Phần cuối cùng của khoá học nói về những đặc trưng của thiết kế phần mềm,
+
+12
+00:00:50,310 --> 00:00:54,830
+bao gồm thiết kế đối tượng (object design), mẫu thiết kế (design patterns), nguyên tắc thiết kế (design principles), 
+và xem xét thiết kế (design reviews).
+

@@ -1,0 +1,69 @@
+﻿1
+00:00:00,137 --> 00:00:10,137
+[Không có tiếng]
+
+2
+00:00:16,856 --> 00:00:20,756
+Có vài tiêu chí được dùng để đánh giá thành tích của bạn
+
+3
+00:00:20,756 --> 00:00:25,130
+trong khoá học này. Đầu tiên là bài tập (quizes) bạn làm trong khi xem bài giảng
+
+4
+00:00:25,130 --> 00:00:30,270
+trên Udacity. Những bài tập này không tính điểm. Nhưng chúng góp phần đánh giá
+
+5
+00:00:30,270 --> 00:00:34,640
+việc bạn hiểu tài liệu trong khi học đến đâu. Về mặt đánh giá điểm số,
+
+6
+00:00:34,640 --> 00:00:38,470
+khoá học này bao gồm đồ án, bài tập lớn, việc tham gia khoá học và
+
+7
+00:00:38,470 --> 00:00:43,050
+bài thi. Các đồ án và vài bài tập lớn được làm theo nhóm. Và
+
+8
+00:00:43,050 --> 00:00:46,960
+tất cả các thành viên trong nhóm sẽ nhận được điểm giống nhau cho bài nộp.
+
+9
+00:00:46,960 --> 00:00:51,400
+Điều này nói lên rằng, bạn có quyền nhận xét về sự đóng góp 
+
+10
+00:00:51,400 --> 00:00:55,220
+của bạn cùng nhóm, hoặc không. Những nhận xét này sẽ được dùng
+
+11
+00:00:55,220 --> 00:00:58,690
+để đánh giá điểm tham gia khoá học. Các cán bộ của khoá học
+
+12
+00:00:58,690 --> 00:01:02,750
+sẽ nỗ lực hết mình để thể hiện các tiêu chí điểm số cho từng người
+
+13
+00:01:02,750 --> 00:01:07,590
+một cách rõ ràng hết sức có thể. Thêm vào đó, chúng tôi rất chú ý đưa ra cho bạn
+
+14
+00:01:07,590 --> 00:01:11,220
+phản hồi giàu thông tin, nhanh chóng và chính xác về bài làm của mình. Nếu bạn có bất kỳ
+
+15
+00:01:11,220 --> 00:01:15,530
+câu hỏi nào về điểm số mình nhận được, vui lòng gửi email tới trưởng bộ phận trợ giảng.
+
+16
+00:01:15,530 --> 00:01:19,410
+Đừng viết bất kỳ câu hỏi nào về điểm số lên Piazza. Và các thông báo chung về điểm số
+
+17
+00:01:19,410 --> 00:01:23,079
+sẽ được cán bộ khoá hộc thông báo thông qua T-Square.
+
+

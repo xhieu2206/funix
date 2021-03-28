@@ -1,0 +1,169 @@
+1
+00:00:05,320 --> 00:00:09,610
+Như đã nói, tôi là Spencer Rugaber
+và tôi đã gắn bó với Georgia Tech trong suốt
+
+2
+00:00:09,610 --> 00:00:10,470
+25 năm.
+
+3
+00:00:10,470 --> 00:00:14,120
+Trước đó, tôi là một lập trình viên trong ngành công nghiệp
+phần mềm, cho cả "ông lớn" như
+
+4
+00:00:14,120 --> 00:00:18,560
+Bell Laboratories ở Spery, và cả công ty khởi nghiệp
+(startup) tên là Interactive Systems.
+
+5
+00:00:18,560 --> 00:00:22,000
+Từ khi đến với Georgia Tech tôi làm việc khá mật thiết
+với những nhà cung cấp dịch vụ viễn thông lớn
+
+6
+00:00:22,000 --> 00:00:25,970
+và cả một vài công ty khởi nghiệp.
+
+7
+00:00:25,970 --> 00:00:29,380
+Trong suốt quá trình đó, tôi đã cố gắng kết nối
+lý thuyết kỹ thuật phần mềm học thuật (academic software engineering)
+
+8
+00:00:29,380 --> 00:00:31,820
+với công việc thực tế hàng ngày trong ngành công nghiệp này.
+
+9
+00:00:31,820 --> 00:00:35,630
+Tôi là người phát triển khóa học CS 6310,
+và đã dạy nó rất nhiều lần,
+
+10
+00:00:35,630 --> 00:00:39,190
+ở Atlanta, và dạy từ xa ở
+Hàn Quốc, và Pháp nữa.
+
+11
+00:00:39,190 --> 00:00:41,130
+Tôi cũng tham gia vào việc lên kế hoạch
+
+12
+00:00:41,130 --> 00:00:44,560
+phát triển các khóa đảm bảo (chất lượng)phần mềm khác
+chính tại Georgia Tech
+
+13
+00:00:44,560 --> 00:00:48,110
+bao gồm khóa học quy trình (sản xuất) phần mềm
+là một phần của chương trình AHMS.
+
+14
+00:00:48,110 --> 00:00:51,830
+Và những khóa học khác về thế hệ phần mềm (software
+generation) và yêu cầu phần mềm.
+
+15
+00:00:51,830 --> 00:00:54,280
+Điểm đặc trưng ở những khóa học này
+
+16
+00:00:54,280 --> 00:00:56,980
+là chúng chú trọng và việc học bằng cách làm thực tế.
+
+17
+00:00:56,980 --> 00:01:00,540
+Đặc biệt trong thiết kế, không có kiến thức học thuật nào
+có thể sánh bằng
+
+18
+00:01:00,540 --> 00:01:04,140
+kinh nghiệm xương máu đạt được trong quá trình
+xây dựng thực tế.
+
+19
+00:01:04,140 --> 00:01:07,730
+Bạn sẽ có cơ hội thực hành chúng
+trong phần đồ án của khóa học này.
+
+20
+00:01:07,730 --> 00:01:10,720
+Bạn có thể xem qua về triết lý giáo dục
+của tôi trong link sau,
+
+21
+00:01:10,720 --> 00:01:12,310
+trong bản ghi chú bài học.
+
+22
+00:01:13,670 --> 00:01:15,970
+Giờ tôi muốn bạn gặp Jarrod Parkes.
+
+23
+00:01:15,970 --> 00:01:20,010
+Bạn sẽ thấy anh ấy trong vài video bài học
+trong vai một sinh viên điển hình,
+
+24
+00:01:20,010 --> 00:01:23,410
+cố gắng giải quyết bài tập
+và hỏi nhiều câu hỏi.
+
+25
+00:01:23,410 --> 00:01:26,050
+Jarrod, có thể nói cho chúng tôi biết
+một chút về bản thân cậu được không?
+
+26
+00:01:26,050 --> 00:01:29,220
+>> Chắc chắn rồi, như Spencer nói
+tên tôi là Jarrod Parkes và
+
+27
+00:01:29,220 --> 00:01:31,990
+Tôi sẽ đồng hành cùng bạn
+và Spencer trong suốt khóa học này.
+
+28
+00:01:31,990 --> 00:01:34,670
+Về kinh nghiệm phần mềm, tôi đã làm việc
+ở một số khá khá
+
+29
+00:01:34,670 --> 00:01:36,340
+những nơi khác nhau.
+
+30
+00:01:36,340 --> 00:01:38,400
+Tôi đã làm việc trong
+một công ty viễn thông và
+
+31
+00:01:38,400 --> 00:01:42,590
+ở đó, tôi kiểm thử và lập trình
+những tính năng mới cho thiết bị định tuyến DSL.
+
+32
+00:01:42,590 --> 00:01:45,630
+Tôi cũng đã lập trình một cơ số
+trò chơi video (video game) nhỏ và những mẫu thử nghiệm
+
+33
+00:01:45,630 --> 00:01:47,140
+ cho nền công nghệ sinh học
+
+34
+00:01:47,140 --> 00:01:51,070
+Và tôi cũng đồng sở hữu 1 công ty phát triển web và di động
+cùng với người anh em song sinh của mình, James.
+
+35
+00:01:51,070 --> 00:01:51,620
+Điều quan trọng hơn,
+
+36
+00:01:51,620 --> 00:01:55,230
+là tôi muốn giúp Spencer mang tới
+một luồng gió mới, hào hứng cho khóa học này.
+

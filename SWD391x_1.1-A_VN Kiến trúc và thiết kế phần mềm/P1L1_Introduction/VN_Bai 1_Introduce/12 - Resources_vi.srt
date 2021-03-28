@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:05,017
+[Không có tiếng]
+
+2
+00:00:05,017 --> 00:00:08,648
+Trong một phần của khoá học này, bạn sẽ được truy cập vào 1 máy ảo
+
+3
+00:00:08,648 --> 00:00:11,801
+bao gồm môi trường và công cụ giúp bạn làm bài tập
+
+4
+00:00:11,801 --> 00:00:15,914
+trong khoá này. Ví dụ, trong máy ảo có ARGO UML,
+
+5
+00:00:15,914 --> 00:00:20,470
+một công cụ vẽ UML. Bạn không nhất thiết sử dụng ARGO UML, nhưng
+
+6
+00:00:20,470 --> 00:00:24,810
+nó cho phép bạn bắt đầu với những bài tập liên quan tới UML nhanh chóng hơn.
+
+7
+00:00:24,810 --> 00:00:28,760
+Có những công cụ khác như là Eclipse cũng được cài đặt. Ngoài
+
+8
+00:00:28,760 --> 00:00:31,780
+máy ảo, bạn cũng nên để ý đến trang nguồn của khoá học.
+
+9
+00:00:31,780 --> 00:00:36,050
+Nó không chỉ bao gồm các đường dẫn tới tài liệu cần đọc trong khoá,
+
+10
+00:00:36,050 --> 00:00:38,970
+mà còn những điểm khác tham chiếu tới các bài học, và một vài chỉ dẫn
+
+11
+00:00:38,970 --> 00:00:42,220
+cho phép bạn tìm hiểu sâu hơn vào mỗi chủ đề bạn thấy hứng thú.
+
+12
+00:00:42,220 --> 00:00:46,590
+Tôi khuyến khích bạn khám phá. Và nếu như bạn tìm thấy những nguồn thú vị khác
+
+13
+00:00:46,590 --> 00:00:50,530
+vui lòng cho chúng tôi biết thông qua diễn đàn và chúng tôi sẽ thêm nó vào trang này.
+

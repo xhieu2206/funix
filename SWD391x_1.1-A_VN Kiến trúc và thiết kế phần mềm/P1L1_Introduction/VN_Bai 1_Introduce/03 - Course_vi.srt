@@ -1,0 +1,53 @@
+1
+00:00:00,000 --> 00:00:04,389
+[Không có tiếng]
+
+2
+00:00:04,389 --> 00:00:07,675
+Đây là khoá học về thiết kế phần mềm, tập trung vào
+
+3
+00:00:07,675 --> 00:00:12,950
+thiết kế kiến trúc bậc cao hơn là thiết kế chi tiết.
+Đây không phải là khoá học lập trình.
+
+4
+00:00:12,950 --> 00:00:15,570
+Đặc biệt, bạn cũng nên biết lập trình
+
+5
+00:00:15,570 --> 00:00:18,960
+ít nhất bằng một ngôn ngữ để theo học khoá này.
+
+6
+00:00:18,960 --> 00:00:24,130
+Đây cũng không phải là khoá học mở đầu kỹ thuật lập trình. Điều kiện trước hết
+
+7
+00:00:24,130 --> 00:00:27,880
+của khoá học này là bạn đã được giới thiệu về chủ đề này rồi
+
+8
+00:00:27,880 --> 00:00:31,910
+thậm chí trong một khoá học khác hoặc trong khi bạn làm lập trình viên tại
+
+9
+00:00:31,910 --> 00:00:37,300
+một công ty phát triển phần mềm nào đó. Khoá học này tập trung vào thiết kế hướng đối tượng (object-oriented design), và
+
+10
+00:00:37,300 --> 00:00:41,440
+các dự án sử dụng ngôn ngữ lập trình Java. Bạn không nhất thiết phải có kinh nghiệm
+
+11
+00:00:41,440 --> 00:00:45,470
+trong những chủ đề này, nhưng hiểu biết quen thuộc về nó sẽ có ích.
+
+12
+00:00:45,470 --> 00:00:48,790
+Nếu bạn là người mới (fresher), đường dẫn tới các trang tài liệu của khoá học 
+
+13
+00:00:48,790 --> 00:00:53,390
+viết trong ghi chú bài giảng trỏ tới những video tôi đã làm hướng dẫn về những chủ đề này.
+

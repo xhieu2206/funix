@@ -1,0 +1,72 @@
+1
+00:00:00,394 --> 00:00:06,082
+[Không có tiếng]
+
+2
+00:00:06,082 --> 00:00:10,445
+Như bạn biết, bất kỳ thứ gì được thể chế hoá như một khoá học trực tuyến
+
+3
+00:00:10,445 --> 00:00:15,310
+cần có một bộ chính sách nghiêm ngặt nhất định, để sinh viên và khoa phải tuân thủ.
+
+4
+00:00:15,310 --> 00:00:19,090
+Đương nhiên, Georgia Tech có một đoạn cam kết được dẫn trong ghi chú bài học
+
+5
+00:00:19,090 --> 00:00:23,770
+mà bạn phải đọc và tuân theo. Trừ phi được chỉ rõ trong phần mô tả bài tập lớn
+
+6
+00:00:23,770 --> 00:00:28,120
+hoặc đồ án, tất cả sản phẩm bạn nộp đều phải do bạn tự làm ra.
+
+7
+00:00:28,120 --> 00:00:32,689
+Khoá học sử dụng diễn đàn Piasa, cho phép bạn hỏi câu hỏi và
+
+8
+00:00:32,689 --> 00:00:36,680
+ngoài ra, trao đổi với sinh viên khác trong khoá. Chúng tôi khuyến khích bạn hỏi
+
+9
+00:00:36,680 --> 00:00:39,930
+để làm rõ về chi tiết của một công cụ hoặc công nghệ
+
+10
+00:00:39,930 --> 00:00:43,410
+cụ thể nào đó. Nhưng bạn không nên hỏi cũng như trả lời
+
+11
+00:00:43,410 --> 00:00:48,000
+những câu hỏi là một phần của bài tập lớn hoặc đồ án. Khoá học này
+
+12
+00:00:48,000 --> 00:00:52,740
+được quản trị chính thức bằng T-Square. Tất cả tài liệu cung cấp
+
+13
+00:00:52,740 --> 00:00:56,090
+thông qua T-Square tuỳ theo hướng dẫn cụ thể cho từng bài tập lớn hay
+
+14
+00:00:56,090 --> 00:01:00,700
+đồ án. Bất cứ thay đổi nào về chính sách hoặc thời hạn sẽ được thông báo trên T-Square, và
+
+15
+00:01:00,700 --> 00:01:05,050
+bạn có trách nhiệm vào T-Square để cập nhật thông tin mới nhất.
+
+16
+00:01:05,050 --> 00:01:09,890
+Các đồ án và vài bài tập lớn yêu cầu bạn nộp báo cáo.
+
+17
+00:01:09,890 --> 00:01:13,240
+Thể thức của những tài liệu này cần tuân theo chuẩn mực của Georgia Tech 
+
+18
+00:01:13,240 --> 00:01:16,500
+như được mô tả tại trang có đường dẫn trong ghi chú bài giảng.
+

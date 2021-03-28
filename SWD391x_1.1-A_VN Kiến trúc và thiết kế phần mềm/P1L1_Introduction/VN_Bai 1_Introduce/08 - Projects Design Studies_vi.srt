@@ -1,0 +1,184 @@
+1
+00:00:00,457 --> 00:00:05,409
+[Không có tiếng]
+
+2
+00:00:05,409 --> 00:00:09,630
+Trái tim và linh hồn của khoá học là nằm ở những đồ án. Tôi không thể thực sự dạy bạn
+
+3
+00:00:09,630 --> 00:00:13,600
+thiết kế. Bạn cần phải học nó bằng cách tự mình làm. Điều tốt nhất tôi có thể làm là
+
+4
+00:00:13,600 --> 00:00:17,050
+giới thiệu một vài kỹ thuật đặc thù, ví dụ như tạo mô hình (modeling), và công nghệ,
+
+5
+00:00:17,050 --> 00:00:21,960
+như là UML, những điều bạn có thể dùng để nghĩ xem làm sao để giải quyết được các bài toán thiết kế.
+
+6
+00:00:21,960 --> 00:00:25,640
+Kinh nghiệm học đến từ việc ứng dụng chúng vào bài toán và có "cảm giác"
+
+7
+00:00:25,640 --> 00:00:31,010
+về cách chúng vận hành. Các khoá học thiết kế phần mềm thường đối mặt với một thử thách quan trọng.
+
+8
+00:00:31,010 --> 00:00:35,550
+Thiết kế thú vị điển hình thường gặp khi đối mặt với bài toán lớn, phức tạp nhưng
+
+9
+00:00:35,550 --> 00:00:39,400
+những điều này không thể giải quyết trong giới hạn một khoá học.
+
+10
+00:00:39,400 --> 00:00:43,680
+Tôi đã tiếp cận một hướng khác khi dựng khung đồ án được gọi là nghiên cứu thiết kế (design studies).
+
+11
+00:00:43,680 --> 00:00:47,060
+Ý tưởng ở đây đến từ môi trường xây dựng kiến trúc mà trong đó
+
+12
+00:00:47,060 --> 00:00:51,170
+kiến trúc sư (phần mềm) thường dựng nhiều mô hình với quy mô nhỏ để
+
+13
+00:00:51,170 --> 00:00:55,840
+khám phá không gian thiết kế. Với mỗi đồ án trong khoá học,
+
+14
+00:00:55,840 --> 00:00:59,540
+Bạn sẽ được yêu cầu giải quyét vài cách khác nhau và rồi học những sự khác nhau đó
+
+15
+00:00:59,540 --> 00:01:03,530
+một cách có hệ thống. Bản thân những đồ án khá nhỏ, và
+
+16
+00:01:03,530 --> 00:01:06,730
+dù vậy, một vài đồ án cần viết code, bạn sẽ làm việc theo nhóm với
+
+17
+00:01:06,730 --> 00:01:10,550
+đủ thành viên, bạn cần có đủ tài nguyên để hoàn thành công việc và
+
+18
+00:01:10,550 --> 00:01:15,670
+nghiên cứu những biến thể. Tôi cũng cố gắng khiến cho những đồ án giống
+
+19
+00:01:15,670 --> 00:01:19,450
+với thực tế hết sức có thể. Điểm giống đầu tiên là bạn sẽ làm việc với
+
+20
+00:01:19,450 --> 00:01:23,700
+các thành viên trong nhớm không cùng 1 địa điểm. Bạn sẽ phải
+
+21
+00:01:23,700 --> 00:01:28,600
+học cách nhanh chóng điều chỉnh bản thân để làm việc một cách phân tán song song (parallel distributive).
+
+22
+00:01:28,600 --> 00:01:33,040
+Điểm giống nhau thứ 2 là các đồ án sẽ có kết thúc mở. Nghĩa là,
+
+23
+00:01:33,040 --> 00:01:35,170
+dù chúng là những yêu cầu cơ bản, vẫn có đủ không gian để
+
+24
+00:01:35,170 --> 00:01:38,990
+bạn sáng tạo giải pháp của riêng mình, và vượt trên những yêu đó
+
+25
+00:01:38,990 --> 00:01:42,990
+nếu bạn tin rằng mình có thể tạo ra giá trị đáng kể cho sản phẩm bạn đang kiến tạo nên.
+
+26
+00:01:42,990 --> 00:01:46,640
+Đương nhiên, rủi ro của một đồ án có kết thúc mở là bạn có thể bị cuốn vào
+
+27
+00:01:46,640 --> 00:01:51,220
+đánh bóng phần mở rộng mà không có giải pháp cho bài toán cơ bản.
+
+28
+00:01:51,220 --> 00:01:55,050
+Tôi cực lực khuyến cáo bạn giải quyết các đồ án theo cách gia tăng,
+
+29
+00:01:55,050 --> 00:01:58,960
+nghĩa là, bắt đầu bằng cách tạo ra những chương trình đơn giản, chỉ cung cấp
+
+30
+00:01:58,960 --> 00:02:02,610
+tính năng tối thiểu và thêm từng tính năng mới mỗi lần.
+
+31
+00:02:02,610 --> 00:02:05,460
+Đảm bảo rằng tính năng cũ vẫn làm việc.
+
+32
+00:02:05,460 --> 00:02:10,060
+Điểm giống thứ 3 với thực tế là các đồ án được chia thành pha (phase). Nghĩa là,
+
+33
+00:02:10,060 --> 00:02:14,210
+3 đồ án đều giải quyết bài toán trong lĩnh vực giống nhau và
+
+34
+00:02:14,210 --> 00:02:18,580
+đồ án sau xây dựng trên giải pháp được phát triển cho đồ án trước đó.
+
+35
+00:02:18,580 --> 00:02:22,780
+Thực tế, chúng tôi đặc biệt khuyến khích bạn tận dụng code. Từ chính bạn hoặc
+
+36
+00:02:22,780 --> 00:02:26,430
+những nhóm khác phát triển trước đó. Tình huống này là điển hình
+
+37
+00:02:26,430 --> 00:02:30,170
+trong thực tế, khi những dự án thành công thường có vòng đời dài,
+
+38
+00:02:30,170 --> 00:02:34,140
+trong đó, những tính năng bổ sung được thêm vào và bàn giao cho khách hàng.
+
+39
+00:02:34,140 --> 00:02:37,860
+Điểm giống thứ tư là những thành viên trong nhóm đồ án thay đổi trong mỗi pha (phase).
+
+40
+00:02:37,860 --> 00:02:41,400
+Trong thực tế, việc luân chuyển nhóm thường xảy ra và
+
+41
+00:02:41,400 --> 00:02:45,860
+bạn cần học cách làm việc với nhiều người. Một lợi ích điển hình là
+
+42
+00:02:45,860 --> 00:02:50,070
+khi có các thành viên nhóm với các nhóm khác nhau, bạn sẽ làm quen và biết được
+
+43
+00:02:50,070 --> 00:02:53,690
+những biến đổi của các giải pháp, từ đó, chọn ra thành phần từ pha trước.
+
+44
+00:02:53,690 --> 00:02:57,990
+Hơn nữa, quản lý nhóm theo cách này,
+
+45
+00:02:57,990 --> 00:03:01,740
+tạo ra động lực thiết kế giải pháp theo cách mà chúng có thể được tái sử dụng
+
+46
+00:03:01,740 --> 00:03:05,320
+trong những dự án sau này. Thâm chí ngay cả khi bạn không biết chính xác những dự án (sau này) đó là gì.
+
