@@ -1,0 +1,10 @@
+SWR301x
+Câu 1: Có thể hiểu quy trình nghiệp vụ là một chuỗi các kịch bản nghiệp vụ được không? Ví dụ một ứng dụng cung cấp cho người dùng khả năng mua hàng trực tuyến, coi như đây là một quy trình, thì quy trình này sẽ bao gồm các kịch bản nghiệp vụ như:
+- Người dùng tìm kiếm sản phẩm
+- Người dùng thêm sản phẩm vào giỏ hàng
+- Người dùng chọn số lượng mong muốn
+- Tiến hành thanh toán và đặt hàng 
+
+Mỗi một kịch bản trên có thể viết thành một use case, và thực tế 1 quy trình có thể coi như là một use case sẽ <include> các use case tương ứng với các kịch bản nghiệp vụ kia được không ạ?
+
+Câu 2: trong mô hình Agile thì SRS có cần thiết không? Có cần làm lại SRS sau khi kết thúc 1 giai đoạn không? (Sprint, Phase?) Việc làm một SRS thường tốn khá nhiều Effort mà change requirements là điều đương nhiên khi thực hiện mô hình agile, vậy SRS của mô hình này sẽ như thế nào?

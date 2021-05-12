@@ -1,0 +1,13 @@
+SWQ391x
+Câu 1: Có thể cho em một vài ví dụ để hiểu hơn về scope trong việc lập kế hoặc kiểm thử được không ạ?
+
+Em học trong phần lên kế hoặc kiểm thử có phân về scope kiểm thử, tuy nhiên lại có thêm 1 số khái niệm như:
+- Độ bao phủ
+- Kỹ thuật kiểm thử (unit test, integration test, system test)
+scope test ở đây có thể hiểu là 1 trong số các kỹ thuật kiểm thử được không ạ? Tức là testers sẽ chỉ thực hiện 1 trong số các kỹ thuật kiểm thử nhất định và ở 1 độ bao phủ nhất định thôi phải không ạ?
+
+Câu 2: thế nào là 1 giai đoạn kiểm thử ạ? Nếu làm việ theo mô hình agile, thì có thể coi 1 sprint là 1 giai đoạn được không ạ? Giả sử trong 1 sprint có những tasks phải hoàn thành, testers thực hiện test unit test và integration test theo những tasks đó, thì 1 giai đoạn nên được coi là 1 sprint hay là tập hợp các chức năng có liên quan đến nhau được thực hiện trong sprint đó ạ?
+
+Câu 3: người thực hiện kiểm thử đơn vị (Unit test) thường chỉ là lập trình viên (như trong bài học), tuy nhiên tester cũng có thể thực hiện kiểm thử đơn vị được mà không cần phải biết code hay có thể đọc code đúng không ạ? Ví dụ 1 chức năng như tạo mới user cũng có thể coi như 1 đơn vị, và người kiểm thử hoàn toàn có thể là 1 tester phải không ạ?
+
+
